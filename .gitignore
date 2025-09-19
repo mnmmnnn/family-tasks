@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# expo
+.expo
+.expo-shared
+
+# system
+.DS_Store
+*.log
+
+# env files
+.env
+
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+# generated native folders
+/ios
+/android
